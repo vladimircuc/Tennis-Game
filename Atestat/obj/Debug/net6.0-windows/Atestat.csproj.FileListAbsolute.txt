@@ -1,0 +1,60 @@
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\bin\Debug\net6.0-windows\Atestat.exe
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\bin\Debug\net6.0-windows\Atestat.deps.json
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\bin\Debug\net6.0-windows\Atestat.runtimeconfig.json
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\bin\Debug\net6.0-windows\Atestat.dll
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\bin\Debug\net6.0-windows\ref\Atestat.dll
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\bin\Debug\net6.0-windows\Atestat.pdb
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\Atestat.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\Atestat.Form1.resources
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\Atestat.Properties.Resources.resources
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\Atestat.csproj.GenerateResource.cache
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\Atestat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\Atestat.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\Atestat.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\Atestat.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\Atestat.dll
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\ref\Atestat.dll
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\Atestat.pdb
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\Atestat.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\Atestat.Form2.resources
+C:\Users\vladi\OneDrive\Desktop\vladi transfer\vladi info\c#2\Atestat\Atestat\obj\Debug\net6.0-windows\Atestat.Form3.resources
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\bin\Debug\net6.0-windows\Atestat.exe
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\bin\Debug\net6.0-windows\Atestat.deps.json
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\bin\Debug\net6.0-windows\Atestat.runtimeconfig.json
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\bin\Debug\net6.0-windows\Atestat.dll
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\bin\Debug\net6.0-windows\ref\Atestat.dll
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\bin\Debug\net6.0-windows\Atestat.pdb
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.csproj.AssemblyReference.cache
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.Form1.resources
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.Form2.resources
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.Form3.resources
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.Properties.Resources.resources
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.csproj.GenerateResource.cache
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.AssemblyInfoInputs.cache
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.AssemblyInfo.cs
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.csproj.CoreCompileInputs.cache
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.dll
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\ref\Atestat.dll
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.pdb
+D:\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.genruntimeconfig.cache
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\bin\Debug\net6.0-windows\Atestat.exe
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\bin\Debug\net6.0-windows\Atestat.deps.json
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\bin\Debug\net6.0-windows\Atestat.runtimeconfig.json
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\bin\Debug\net6.0-windows\Atestat.dll
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\bin\Debug\net6.0-windows\ref\Atestat.dll
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\bin\Debug\net6.0-windows\Atestat.pdb
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.csproj.AssemblyReference.cache
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.Form1.resources
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.Form2.resources
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.Form3.resources
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.Properties.Resources.resources
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.csproj.GenerateResource.cache
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.AssemblyInfoInputs.cache
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.AssemblyInfo.cs
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.dll
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\ref\Atestat.dll
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.pdb
+C:\Users\vladi\Downloads\zip atestat\Atestat Vladimir Cuc 12F 2022\Atestat\obj\Debug\net6.0-windows\Atestat.genruntimeconfig.cache
