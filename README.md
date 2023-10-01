@@ -1,7 +1,7 @@
 # Tennis-Game 
 Welcome to my Tennis game!   
 This was a project I created in my senior year of high-school as my final project    
-Therefore it has a few issues :)) and I didn't manage to dix them so I will write a few things you need to do before playing     
+Therefore it has a few issues :)) and I didn't manage to dix them so I will write a few things you need to do before playing      
 1. After you download the game, first go to folder "Atestat", then open the "Form1.cs" in any editor
 2. Follow the insctructions written in commants to change the location of the rackets images
 3. After changing the paths as needed run the program and ignore the pop-up issue "There were build issues". Just click "Yes" and play the game
