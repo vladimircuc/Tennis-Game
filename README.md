@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 The game has a few issues that I didn't manage to fix yet so I will write a few things you need to do before playing      
-1. Download all files     
+1. Download the Tennis Game folder    
 2. After you download the game, first go to folder "Atestat", then open the "Form1.cs" in any editor
 3. Follow the insctructions written in commants to change the location of the rackets images
 4. After changing the paths as needed run the program and ignore the pop-up issue "There were build issues". Just click "Yes" and play the game
